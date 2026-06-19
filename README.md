@@ -388,6 +388,3 @@ output:
 * Microchip Timer1 Reference Manual
 
 ---
-
-enerate precise delays using Timer1 on the PIC18F4580 and create a square wave output observable on an oscilloscope or LEDs.
-```
