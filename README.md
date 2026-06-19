@@ -336,7 +336,7 @@ Period        ≈ 20 ms
 
 ## 📸 Screenshots
 
-Add screenshots using:
+output:
 
 ![image alt](https://github.com/Abiramisankar0425/PIC18F4580-Timer1-Delay-Generation/blob/833fa5e79eb23be9422ed965431f75030fffa372/timer_output.png)
 
